@@ -14,7 +14,7 @@ GitHub 贡献图式:哪些天在用 AI、连不连续。
 
 ![calendar](calendar.svg)
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 <h3>连续活跃天数</h3>
@@ -27,9 +27,6 @@ Duolingo 式连续天数:当前 / 最长 / 累计。<br><br>
 <img src="token.svg" width="100%" alt="token">
 </td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td width="50%" valign="top">
 <h3>三源使用趋势</h3>
@@ -42,9 +39,6 @@ Duolingo 式连续天数:当前 / 最长 / 累计。<br><br>
 <img src="records.svg" width="100%" alt="records">
 </td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td width="50%" valign="top">
 <h3>AI 工具清单</h3>
